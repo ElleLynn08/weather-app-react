@@ -6,7 +6,7 @@ export default function Footer() {
       This project was coded by <strong> Míchelle Findley</strong> and is
       open-sourced on
       <a
-        href="https://github.com/MFindley08/Vanilla_WeatherApp"
+        href="https://github.com/MFindley08/weather-app-react"
         className="reference-links"
         id="gitHub"
         target="_blank"
@@ -17,7 +17,7 @@ export default function Footer() {
       </a>
       and hosted on{" "}
       <a
-        href="https://weather-in-the-air5678.netlify.app/"
+        href="https://inquisitive-semifreddo-2ab583.netlify.app/"
         className="reference-links"
         id="netlify"
         target="_blank"
