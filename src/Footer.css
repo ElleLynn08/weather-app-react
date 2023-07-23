@@ -1,0 +1,23 @@
+.Footer {
+  font-size: 14px;
+  padding-bottom: 0;
+  padding-top: 30px;
+  text-align: center;
+}
+strong {
+  color: #30307f;
+  font-weight: bold;
+}
+
+strong:hover {
+  transform: ;
+}
+
+.Footer a {
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+}

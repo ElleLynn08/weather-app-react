@@ -1,0 +1,67 @@
+:root {
+  --default-font-family: "Poppins", sans-serif;
+  --card-border-color: #ced4da;
+}
+.container {
+  font-family: var(--default-font-family);
+  padding-top: 20px;
+}
+
+.cityTemp {
+  line-height: 10px;
+  padding-top: 20px;
+}
+
+.cityTemp h1 {
+  font-family: "Indie Flower", cursive;
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 55px;
+}
+.cityTemp h2 {
+  font-size: 40px;
+}
+.cityTemp .units {
+  font-size: 16px;
+  position: relative;
+  top: -16px;
+}
+
+.date {
+  font-size: 16px;
+  line-height: 10px;
+  padding-top: 95px;
+}
+
+.conditions {
+  font-size: 16px;
+  line-height: 10px;
+  padding-top: 95px;
+}
+
+@media (max-width: 900px) {
+  .cityTemp {
+    padding-top: 7px;
+  }
+  .cityTemp h1 {
+    font-size: 40px;
+  }
+  .cityTemp h2 {
+    font-size: 30px;
+  }
+  .cityTemp .units {
+    font-size: 14px;
+
+    top: -12px;
+  }
+  .date {
+    font-size: 14px;
+    line-height: 15px;
+    padding-top: 85px;
+  }
+  .conditions {
+    font-size: 14px;
+    line-height: 15px;
+    padding-top: 85px;
+  }
+}
