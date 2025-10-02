@@ -3,10 +3,10 @@ import React from "react";
 export default function Footer() {
   return (
     <div className="Footer">
-      This project was coded by <strong> Míchelle Findley</strong> and is
+      This project was coded by <strong> Elle Lynn</strong> and is
       open-sourced on
       <a
-        href="https://github.com/MFindley08/weather-app-react"
+        href="https://github.com/ElleLynn08/weather-app-react"
         className="reference-links"
         id="gitHub"
         target="_blank"
